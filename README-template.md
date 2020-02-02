@@ -1,6 +1,6 @@
 # _{Application Name}_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Andrew Kim, Winter A. Runion, {Date of current version}_
 
 #### By _**{List of contributors}**_
 
